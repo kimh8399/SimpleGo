@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SimpleGo</string>
+    <string name="toBoard_button">Open Board</string>
 </resources>
