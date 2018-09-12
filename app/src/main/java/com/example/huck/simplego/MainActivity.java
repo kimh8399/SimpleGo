@@ -8,7 +8,6 @@ package com.example.huck.simplego;
 
 public class MainActivity extends AppCompatActivity {
 
-
     Button toBoard;
 
     @Override
